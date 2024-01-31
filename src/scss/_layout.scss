@@ -1,0 +1,34 @@
+.l-header {
+  background-image: url(../../images/sumidero_canyon.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.l-header h1 {
+  padding: 175px 165px;
+  text-align: center;
+  color: white;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.l-main {
+  background-image: url(../../images/pattern.png);
+  background-repeat: repeat;
+}
+
+.l-footer {
+  border-top: 10px solid #ffb500;
+}
+
+.l-title {
+  text-align: center;
+  background-color: #99cc33;
+  padding: 10px 15px 11px 14px;
+}
+
+.l-title-2 {
+  text-align: center;
+  background-color: #00a8b1;
+  padding: 10px 15px 11px 14px;
+}

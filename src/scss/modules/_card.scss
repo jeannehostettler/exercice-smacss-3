@@ -1,11 +1,20 @@
 .card {
   border: black solid 1px;
   margin-bottom: 30px;
+  background-color: white;
 }
 
 .card h3 {
   font-weight: 300;
   font-size: 18px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.card p {
+  font-weight: 500;
+  margin-bottom: 20px;
+  margin-left: 20px;
 }
 
 .card img {
